@@ -1,6 +1,6 @@
 flask
 flask_sqlalchemy
-gunicorn==19.2
+gunicorn==22.0.0
 gevent
 pymysql
 flask_wtf
